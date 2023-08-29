@@ -1,0 +1,12 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/Systemtechnik/CRMService/.vs
+/Systemtechnik/CRMService/CRM.DataAccess/bin/Debug/net6.0
+/Systemtechnik/CRMService/CRM.DataAccess/obj
+/Systemtechnik/CRMService/CRMService/bin/Debug/net6.0
+/Systemtechnik/CRMService/CRMService/obj
+/Systemtechnik/WinFormsApp1/.vs
+/Systemtechnik/WinFormsApp1/WinFormsApp1/bin/Debug/net6.0-windows
+/Systemtechnik/WinFormsApp1/WinFormsApp1/obj
